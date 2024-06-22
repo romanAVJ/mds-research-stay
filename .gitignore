@@ -167,3 +167,12 @@ data/
 
 # ds store
 .DS_Store
+
+# all .js
+*.js
+
+# all .css
+*.css
+
+# all .woff
+*.woff
