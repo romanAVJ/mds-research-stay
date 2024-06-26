@@ -176,3 +176,6 @@ data/
 
 # all .woff
 *.woff
+
+# csv
+*.csv
