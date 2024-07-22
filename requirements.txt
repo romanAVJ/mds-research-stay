@@ -16,3 +16,6 @@ folium==0.17.1
 python-dotenv==1.0.1
 sie_banxico==0.0.1
 pyamg==5.2.1
+catboost==1.2.3
+xgboost==2.1.0
+shap==0.46.0
