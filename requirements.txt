@@ -19,3 +19,4 @@ pyamg==5.2.1
 catboost==1.2.3
 xgboost==2.1.0
 shap==0.46.0
+ipywidgets==8.1.3
