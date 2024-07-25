@@ -185,3 +185,6 @@ figures/
 
 # catboost info
 catboost_info/
+
+# documents
+documents/
